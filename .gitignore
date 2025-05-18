@@ -1,0 +1,17 @@
+# Global ignores
+*.pyc
+__pycache__/
+.env
+.vscode/
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Backend
+smart_habit_tracker/db.sqlite3
+smart_habit_tracker/__pycache__/
+smart_habit_tracker/*.pyc
+venv/
+# Frontend
+frontend/node_modules/
